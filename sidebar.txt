@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ukw:home|Door43 (ukw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ukw|d43-ukw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ukw/archive/master.zip|d43-ukw.zip]]
+
+**Recent Changes**
+{{changes>ns = ukw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ukw|Ethnologue data]]
+
